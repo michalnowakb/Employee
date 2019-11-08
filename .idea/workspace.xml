@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce0fbdb2-89f3-4587-bbf7-ea23fa7c7a93" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sgw7loiJImXX4vqiJlizwpkMUO" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/mysql-connector-java-8.0.17.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sparta.mjn.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Michal Nowak\IdeaProjects\Employee\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StartTester">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparta.mjn.controller.Start" />
+      <module name="Employee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.mjn.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Employee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.mjn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.mjn" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.mjn.StartTester" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartTester.checkIfEmployeeAreEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Employee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.mjn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.mjn" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.mjn.StartTester" />
+      <option name="METHOD_NAME" value="checkIfEmployeeAreEqual" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartTester.checkIfEmployeeIdIsEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Employee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.mjn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.mjn" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.mjn.StartTester" />
+      <option name="METHOD_NAME" value="checkIfEmployeeIdIsEqual" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartTester.checkIfEmployeeNameAreEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Employee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.mjn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.mjn" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.mjn.StartTester" />
+      <option name="METHOD_NAME" value="checkIfEmployeeNameAreEqual" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StartTester" />
+        <item itemvalue="JUnit.StartTester.checkIfEmployeeIdIsEqual" />
+        <item itemvalue="Application.Start" />
+        <item itemvalue="JUnit.StartTester.checkIfEmployeeNameAreEqual" />
+        <item itemvalue="JUnit.StartTester.checkIfEmployeeAreEqual" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce0fbdb2-89f3-4587-bbf7-ea23fa7c7a93" name="Default Changelist" comment="" />
+      <created>1571998382006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571998382006</updated>
+    </task>
+    <servers />
+  </component>
+</project>
